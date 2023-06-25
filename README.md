@@ -1,1 +1,2 @@
-# obsautoreplaybuffer
+## Because the bloatware that is Geforce Experience is forced for shadowplay
+- Put [autoreplaybuffer.py](https://github.com/rolfosian/obs-auto-replay-buffer/blob/main/autoreplaybuffer.py) in OBS-Studio-x.x.x-Full-x64\data\obs-plugins\frontend-tools\scripts and then add it in OBS Studio via tools>scripts and it will automatically start/stop the replay buffer when there's something showing in the preview greater than 0 by 0 pixels
